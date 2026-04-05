@@ -1,0 +1,13 @@
+Find the task condition on the screenshot and provide the answer strictly in Markdown format:
+
+**Essentially, we need:** <one sentence in simple language>
+***
+**I will:** <one sentence in simple language>
+***
+```js
+// code here
+```
+
+No comments in the code unless required by the task.
+No extra explanations before or after this structure.
+
